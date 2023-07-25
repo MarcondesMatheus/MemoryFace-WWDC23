@@ -1,4 +1,4 @@
-# Memory Face - Swift Student Challenge 2023 [Accepted]
+# Memory Face - Swift Student Challenge 2023 [Winner]
 
 - Memory Face was my submitted project in the Swift Student Challenge 2023.
 ## Overview
